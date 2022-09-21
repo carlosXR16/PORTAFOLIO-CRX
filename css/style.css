@@ -1,0 +1,388 @@
+@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@400;500;800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Gelasio&display=swap');
+
+#whatsaap{
+    position: fixed;
+    right: 10px;
+    bottom: 20px;
+    z-index: 999;
+}
+
+#nav img{
+    width: 100px;
+    height: 40px;
+}
+.navbar{
+    background:#000000;
+}
+.navbar a{ 
+    font-family: 'Gelasio', Regular;
+    color: white;
+}
+.navbar a:hover{
+    font-family: 'Gelasio', Regular;
+    color: blue;
+}
+.fondo{
+    background-image: url(../img/perfil/FONDO\ HHHHH\ 1.png);
+    background-size: cover;
+    width:100%;
+}
+.fle{
+    display: flex;
+    justify-content: end;
+}
+.fle h3{
+    color:#ffffff;
+    font-family: 'Orbitron', sans-serif;
+    text-align: center;
+    margin-right:150px;
+
+
+}
+.fle h1{
+    color: #ffffff;
+    padding-top:200px;
+    font-size: 60px;
+    font-family: 'Orbitron', sans-serif;
+    justify-content: center;
+    text-align: center;
+    margin-right:150px;
+   
+    
+}
+.lgos img{
+    width:100%;
+    
+   
+}
+main{
+    overflow-x: hidden;
+}
+#primera{
+    background: url(../Img/info/fondo_info.jpg);
+    background-size: cover;
+}
+#primera .perfil{
+    padding-top: 85px;
+    width:100%;
+    text-align: center;
+    padding-bottom: 50px;
+
+    
+    
+}
+#primera .perfil h2{
+    text-align: center;
+    font-family: 'Gelasio', Regular; 
+    background: #0A0F27;
+    border-radius: 40px;
+    border-style: dashed;
+    margin-left: 30%;
+    margin-right: 30%;
+    color: white;
+    font-size: 35px;
+
+}
+#primera .perfil p{
+    padding-top:105px;
+    padding-bottom: 50px;
+    color: #ffffff;
+    font-family: 'Gelasio', serif; 
+}
+#segunda .expr{
+    
+    width: 220px;
+    padding-bottom: 120px;
+}
+.pepe{
+    margin-top: 150px;
+    margin-bottom: 150px;
+}
+#segunda .expr{
+    padding-bottom: 0;
+}
+.pepe1{
+    margin-bottom: 100px;
+}
+
+#segunda h2{
+    text-align: center;
+    font-family: 'Gelasio', Regular; 
+    background: #0A0F27;
+    border-radius: 40px;
+    border-style: dashed;
+    margin-left: 30%;
+    margin-right: 30%;
+    color: white;
+    font-size: 40px;
+}
+
+#services{
+    padding: 40px;
+    background:url(../img/ESTUDIOS/experiencia.jpg);
+    background-size: cover;
+    background-position-y: center ;
+    color: aliceblue;
+}
+
+#services h2{
+    text-align: center;
+    font-family: 'Gelasio', Regular; 
+    background: #0A0F27;
+    border-radius: 40px;
+    border-style: dashed;
+    margin-left: 30%;
+    margin-right: 30%;
+    margin-top:50px;
+    margin-bottom: 40px;
+    color: white;
+    font-size: 35px;
+    
+}
+#services .tarjetas{
+    margin-top: 60px;
+    padding-bottom: 90px;
+}
+#services .card-servicios{
+    margin-top: 0%;
+}
+.pep{
+    background: url(../img/ESTUDIOS/Polygon\ 11.png);
+    background-size: cover;
+    padding:30px;
+    max-width: 300px;
+    font-size: #fff;
+    
+}
+#pol{
+    background-color: #000000;
+    background-size: cover;
+    padding:30px;
+    max-width: 300px;
+    font-size: #fff;
+    
+}
+#services .card-servicios p{
+    padding-bottom:25px ;
+}
+#services .card-servicios i{
+    font-size: 50px;
+    color: rgb(38, 15, 141);
+    
+}
+.card-servicios .h3{
+    font-family: 'Gelasio', Regular; 
+    border-bottom: solid 2px #ffffff;
+    font-size: 40px;
+    margin-bottom: 50px;
+}
+.card-servicios .img{
+    width: 105px;
+    height: 105px;
+}
+/* cuarta */
+#cuarta{
+    background: url(../img/POTA/fondo_portafo.jpg);
+    background-size: cover;
+}
+#cuarta h2{
+    text-align: center;
+    font-family: 'Gelasio', Regular; 
+    background: #0A0F27;
+    border-radius: 40px;
+    border-style: dashed;
+    margin-left: 30%;
+    margin-right: 30%;
+    margin-bottom: 60px;
+    color: white;
+    font-size: 35px;
+}
+.an{
+    padding-top: 130px;
+}
+.ñero{
+    padding-top: 50px;
+    padding-bottom: 100px;
+}
+.ñero img{
+    width:350px;
+    height:200px;
+
+}
+.ñero h3{
+    text-align: center;
+    font-family: 'Gelasio', Regular; 
+    background: #0A0F27;
+    border-radius: 40px;
+    border-style: dashed;
+    margin-left: 30%;
+    margin-right: 30%;
+    margin-bottom: 40px;
+    color: white;
+    font-size: 20px;
+    margin-top: 50px;
+}
+#quinta{
+    background-image: url(../img/barras/WhatsApp\ Image\ 2022-09-17\ at\ 2.44.25\ PM.jpeg);
+    background-size: cover;
+}
+#quinta h2{
+    text-align: center;
+    font-family: 'Gelasio', Regular; 
+    background: #0A0F27;
+    border-radius: 40px;
+    border-style: dashed;
+    margin-left: 30%;
+    margin-right: 30%;
+    margin-bottom: 60px;
+    color: white;
+    font-size: 35px;
+}
+#quinta section{
+    padding-bottom: 100px;
+    text-align: center;
+    background-size: cover;
+}
+
+.habilidades{
+    display: flex; 
+    justify-content: space-evenly;
+}
+.habilidades h3{
+    font-family: 'Gelasio', Regular; 
+    color: #ffffff;
+}
+.ha{
+    padding-top: 50px;
+}
+.habilidades img{
+    width: 70%;
+}
+footer{
+    background: url(../img/CONTACTO/Group\ 41.png);
+    background-size: cover;
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}
+footer section{
+   margin: 50px;
+   margin-top: 0%;
+}
+footer label{
+    font-family: 'Gelasio', Regular; 
+    color: #ffffff;
+    margin-bottom: 10px;
+}
+footer input{
+    border-radius: 5px;
+    height:10px;
+    width: 500px;
+}
+footer h2{
+    text-align: center;
+    font-family: 'Gelasio', Regular; 
+    background: #0A0F27;
+    border-radius: 40px;
+    border-style: dashed;
+    color: white;
+    font-size: 30px;
+    margin-top: 30px;
+    margin-bottom: 60px;
+    width: 200px;
+}
+.footer{
+    padding-top: 30px;
+}
+.form{
+    margin-bottom: 50px;
+}
+footer a{
+    font-family: 'Gelasio', Regular; 
+    text-decoration: none;
+    color: #000000;
+}
+
+footer textarea{
+    height: 10px;
+    border-radius: 5px;
+    border: #000000 solid 1px;
+}
+.sepa{
+    margin-bottom: 72px;
+    margin-top: 20px;
+}
+.ti {
+   text-align: end;
+   justify-content: end;
+
+}
+.ti button{
+    background: transparent;
+    border: none;
+    color: #ffffff;
+    font-size: 20px;
+    font-family: 'Gelasio', Regular; 
+}
+.social{ 
+    font-family: 'Gelasio', Regular; 
+    color: #ffffff;
+    display: flex;
+    justify-content: end;
+    align-items: center;
+    font-size: 50px;
+}
+.social img{
+    width: 60px;
+    height: 60px;    
+}
+
+@media screen and (min-width:300px) and (max-width:500px){
+    header{
+        overflow-x: hidden;
+    }
+    main{
+        overflow-x: hidden;
+    }
+    .fle{
+        display: block;
+    }
+    #primera .perfil h2{
+        font-size: 20px;
+    }
+    #services h2{
+        font-size: 19px;
+       margin-right:70px ;
+       margin-left: 70px;
+    }
+    #cuarta h2{
+        font-size: 20px;
+    }
+    #services #pol{
+        margin-top: 40px;
+        margin-bottom: 40px;
+    }
+    .ti{
+       text-align: start;
+    }
+    .pep{
+        padding:26px ;
+    }
+    .habilidades{
+        display: block;
+       
+    }
+    #quinta h2{
+        font-size: 20px;
+    }
+    footer{
+        display: block;
+    }
+    footer input{
+        width:300px;
+    }
+    footer textarea{
+        width: 300px;
+    }
+}
