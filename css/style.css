@@ -60,7 +60,7 @@ main{
     overflow-x: hidden;
 }
 #primera{
-    background: url(../Img/info/fondo_info.jpg);
+    background: url(../img/info/fondo_info.jpg);
     background-size: cover;
 }
 #primera .perfil{
